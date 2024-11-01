@@ -19,7 +19,6 @@ Hello, MO!
  使用 Mo 可直接在浏览器中执行 TensorFlow 代码。下面的代码示例展示了两个矩阵相加的情况。
 <img src='http://imgbed.momodel.cn/5cc1a292e3067ceb154f0e5d.jpg' width=50% height=50%>
 
-
 ```python
 import tensorflow as tf
 import numpy as np
@@ -38,7 +37,6 @@ result
 array([[2., 3., 4.],
        [5., 6., 7.]], dtype=float32)
 ```
-
 
 ## 3. 进行数据可视化
 
@@ -125,6 +123,7 @@ plt.show()
 
 在代码块查询界面，可以搜索你想要的代码块，查看代码块内容或者插入使用，当然你也可以看到插入和分享的代码块的历史记录，方便再次使用。
 ![](https://imgbed.momodel.cn/jiadaima1.png)
+
 <!--![分享代码块.gif](https://cdn.nlark.com/yuque/0/2019/gif/307794/1556435835668-38ea9e8d-270b-4678-a9f6-71c833df1551.gif#align=left&display=inline&height=768&name=%E5%88%86%E4%BA%AB%E4%BB%A3%E7%A0%81%E5%9D%97.gif&originHeight=768&originWidth=1536&size=7719500&status=done&width=1536)-->
 
 <a name="6aAaw"></a>
@@ -132,16 +131,21 @@ plt.show()
 **5.2 代码块分享**
 
 如果你觉得某些代码比较好，可以把这些代码放到一个 cell 中点击右上角的分享按钮，分享到平台中，供别人使用。<br />
+
 <!--![image.png](https://imgbed.momodel.cn/yunxingdaima3.png)-->
+
 ![](https://imgbed.momodel.cn/fenxiang.png)<br />
 在分享界面，你需要填写代码块的名字，用来描述这部分代码的功能；也可以填写标签分类信息，便于别人检索使用。<br />
 ![](https://imgbed.momodel.cn/daimafenxiangtianchong1.png)
+
 <!--![image.png](https://cdn.nlark.com/yuque/0/2019/png/307794/1556435948936-bd6fad5c-4066-46f9-a961-f66025e936d4.png#align=left&display=inline&height=432&name=image.png&originHeight=864&originWidth=1514&size=247352&status=done&width=757)-->
 
 ## 6. 邀请好友进行协作
 
 Mo Notebook 开发环境支持多人协作，你可以点击加号，在“添加协作成员”弹窗中邀请好友或同事共同进行项目研发。<br />
+
 <!--![image.png](https://imgbed.momodel.cn/yunxingdaima4.png)-->
+
 ![](https://imgbed.momodel.cn/xiezuo.png)<br />
 
 邀请成功后，你可以享受以下功能：

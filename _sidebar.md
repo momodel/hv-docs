@@ -1,10 +1,4 @@
-* 平台介绍
-  * [产品介绍](zh-cn/产品介绍.md)
-  * [功能介绍](zh-cn/功能介绍.md)
-  * [常见问题](zh-cn/常见问题.md)
 * 开始学习
-  * [学习路径](zh-cn/学习路径.md)
-  * [Mo-Tutor（沉浸式教学模式）](zh-cn/Mo-Tutor（沉浸式教学模式）.md)
   * [Mo-Lab学习模式](zh-cn/Mo-Lab学习模式.md)
 * 尝试开发
   * [上传发布数据集](zh-cn/上传发布数据集.md)
@@ -12,10 +6,3 @@
   * [在GPU或CPU资源上训练机器学习模型](zh-cn/在GPU或CPU资源上训练机器学习模型.md)
   * [利用TensorBoard可视化评估模型](zh-cn/利用TensorBoard可视化评估模型.md)
   * [如何在Notebook中节省运行内存](zh-cn/如何在Notebook中节省运行内存.md)
-* 活动规则
-  * [积分打卡规则](zh-cn/积分规则.md)
-  * [《人工智能导论》打卡活动规则](zh-cn/打卡活动规则.md)
-* 条款政策
-  * [使用条款](zh-cn/使用条款.md)
-  * [隐私政策](zh-cn/隐私政策.md)
-  * [评测协议](zh-cn/评测协议.md)
